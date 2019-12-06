@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haohmal/onboarding-api.git"
+    "url": "git+https://github.com/haohmal/onboarding.git"
   },
   "keywords": [
     "api",
@@ -22,9 +22,9 @@
   "author": "Jan Devsmith <jdevsmith@example.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haohmal/onboarding-api/issues"
+    "url": "https://github.com/haohmal/onboarding/issues"
   },
-  "homepage": "https://github.com/haohmal/onboarding-api#readme",
+  "homepage": "https://github.com/haohmal/onboarding#readme",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4"
   }
