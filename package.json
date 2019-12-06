@@ -1,0 +1,31 @@
+{
+  "name": "onboarding-api",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haohmal/onboarding-api.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco",
+    "cool",
+    "faces",
+    "ascii"
+  ],
+  "author": "Jan Devsmith <jdevsmith@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haohmal/onboarding-api/issues"
+  },
+  "homepage": "https://github.com/haohmal/onboarding-api#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
